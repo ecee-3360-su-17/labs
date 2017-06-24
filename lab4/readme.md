@@ -1,4 +1,4 @@
-# Lab 4
+# Lab 4: In a galaxy far far away... RTOS!
 
 ## Overview
 
@@ -27,8 +27,8 @@ Most professional embedded systems development will take place on an RTOS.
 
 ## Material
 
-- [What is an OS?](os.md)
-- [Scheduling](scheduling.md)
+- [What is an RTOS? (external link)](https://en.wikipedia.org/wiki/Real-time_operating_system)
+- [Scheduling (external link)](https://en.wikipedia.org/wiki/Scheduling_(computing))
 - [Tasks](tasks.md)
 - [Using UART in a Task](uart.md)
 - [Inter-Task Communication with Mailboxes](mailboxes.md)
